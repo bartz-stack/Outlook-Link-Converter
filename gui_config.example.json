@@ -1,0 +1,7 @@
+{
+    "unc_to_drive_mappings": {
+        "\\\\YOUR-SERVER\\share-name": "P:",
+        "\\\\YOUR-SERVER\\another-share": "G:",
+        "\\\\YOUR-SERVER": "G:"
+    }
+}

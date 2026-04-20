@@ -1,0 +1,32 @@
+# Site-specific config (contains internal server names)
+gui_config.json
+
+# Claude Code local settings
+.claude/
+
+# Windows
+System Map.md
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+venv/
+.venv/
+*.egg-info/
+
+# Build artifacts
+build/
+dist/
+*.spec
+
+# App-generated
+logs/
+*.log
+
+# Windows
+desktop.ini
+Thumbs.db
+
+# Compiled executables
+*.exe
